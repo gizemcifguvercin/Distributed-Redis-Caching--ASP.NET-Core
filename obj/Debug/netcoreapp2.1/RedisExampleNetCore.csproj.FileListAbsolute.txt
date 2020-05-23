@@ -1,0 +1,14 @@
+C:\Users\gcifguvercin\RedisExampleNetCore\bin\Debug\netcoreapp2.1\RedisExampleNetCore.deps.json
+C:\Users\gcifguvercin\RedisExampleNetCore\bin\Debug\netcoreapp2.1\RedisExampleNetCore.runtimeconfig.json
+C:\Users\gcifguvercin\RedisExampleNetCore\bin\Debug\netcoreapp2.1\RedisExampleNetCore.runtimeconfig.dev.json
+C:\Users\gcifguvercin\RedisExampleNetCore\bin\Debug\netcoreapp2.1\RedisExampleNetCore.dll
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.csprojAssemblyReference.cache
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.csproj.CoreCompileInputs.cache
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.RazorAssemblyInfo.cache
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.RazorAssemblyInfo.cs
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.AssemblyInfoInputs.cache
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.AssemblyInfo.cs
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\gcifguvercin\RedisExampleNetCore\bin\Debug\netcoreapp2.1\RedisExampleNetCore.pdb
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.dll
+C:\Users\gcifguvercin\RedisExampleNetCore\obj\Debug\netcoreapp2.1\RedisExampleNetCore.pdb
